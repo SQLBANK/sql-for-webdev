@@ -1,0 +1,7 @@
+"db_id","db_name","initial_release_date","creator","is_nosql"
+"1","ORACLE","1979-06-01","Software Development Laboratories (SDL) (현재 Oracle Corporation)","0"
+"2","MSSQL","1989-04-24","Microsoft","0"
+"3","MYSQL","1995-05-23","MySQL AB (현재 Oracle Corporation)","0"
+"4","MARIADB","2009-10-29","MariaDB plc, MariaDB Foundation","0"
+"5","MONGODB","2009-02-11","10gen (현재 MongoDB Inc.)","1"
+"6","CASSANDRA","2008-07-01","Facebook (현재 Apache Software Foundation)","1"
